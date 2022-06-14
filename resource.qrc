@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>c++_50px.png</file>
+        <file>qt_50px.png</file>
+    </qresource>
+</RCC>
